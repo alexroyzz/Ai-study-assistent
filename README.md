@@ -75,9 +75,9 @@ CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
 # Choose: 'openai' or 'gemini'
-AI_PROVIDER=openai
-OPENAI_API_KEY=sk-your-openai-key
-OPENAI_MODEL=gpt-3.5-turbo
+AI_PROVIDER=Groq
+GROQ_API_KEY=sk-your-groq-key
+GROQ_MODEL=llama-3.3-70b-versatile
 
 # Only needed if AI_PROVIDER=gemini
 # GEMINI_API_KEY=your-gemini-key
